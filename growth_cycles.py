@@ -118,3 +118,5 @@ processed_df = p.df
 plotter = plot_continuous_graph(processed_df)
 plotter.plot()
 
+## Todo 
+# Remove values between certain NDVI values, e.g. 0.2
